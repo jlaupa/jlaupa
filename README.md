@@ -41,7 +41,7 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Apache%20APISIX-E7352C?style=flat-square&logo=apacheapisix&logoColor=white" alt="Apache APISIX"/>
+  <img src="https://img.shields.io/badge/Apache%20APISIX-E7352C?style=flat-square" alt="Apache APISIX"/>
   <img src="https://img.shields.io/badge/Apigee-1A73E8?style=flat-square&logo=googlecloud&logoColor=white" alt="Apigee"/>
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
   <img src="https://img.shields.io/badge/OAuth2-2F2F2F?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2"/>
@@ -50,7 +50,7 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Memcached-0288D1?style=flat-square&logo=memcached&logoColor=white" alt="Memcached"/>
+  <img src="https://img.shields.io/badge/Memcached-0288D1?style=flat-square" alt="Memcached"/>
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch"/>
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/>
 </p>
@@ -72,7 +72,7 @@ Day to day I write **Python**, **PHP** and **Lua** (APISIX plugins), on top of *
 
 <p>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/Chargebee-FF3300?style=flat-square&logo=chargebee&logoColor=white" alt="Chargebee"/>
+  <img src="https://img.shields.io/badge/Chargebee-FF3300?style=flat-square" alt="Chargebee"/>
   <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/>
   <img src="https://img.shields.io/badge/Mintlify-0F172A?style=flat-square&logo=mintlify&logoColor=white" alt="Mintlify"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/>
