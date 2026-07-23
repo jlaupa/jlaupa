@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spanish-native-0D9488?style=flat-square" alt="Spanish native"/>
-  <img src="https://img.shields.io/badge/English-limited%20working%20(B1)-64748B?style=flat-square" alt="English B1"/>
 </p>
 
 <p align="center">
@@ -90,19 +89,6 @@ I've built billing and monetization end to end: **Stripe** and **Chargebee** for
 
 ---
 
-### Tooling
-
-<p>
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
-</p>
-
-For day to day work I use **DBeaver** for databases, **Notion** for docs and knowledge, **Figma** to read designs and specs (I consume them, I don't design), and **Jira** for planning.
-
----
-
 ### AI tools
 
 <p>
@@ -125,6 +111,10 @@ I use **Claude** and **Claude Code**, **Cursor**, **Codex**, **ChatGPT** and **G
 - 🔌 **[freepik-mcp](https://github.com/freepik-company/freepik-mcp)**: Magnific's official MCP server (75★). I'm the top contributor and built the first version, so agents can call the API through function calling.
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/English-limited%20working%20(B1)-64748B?style=flat-square" alt="English B1"/>
+</p>
 
 <p align="center">
   <em>Open to remote roles in product and AI engineering. Best way to reach me is <a href="https://www.linkedin.com/in/jairolaupa/">LinkedIn</a>.</em>
