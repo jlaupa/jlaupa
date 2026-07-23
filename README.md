@@ -80,11 +80,14 @@ I've worked with cloud infrastructure for years, first on **AWS** and now on **G
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
   <img src="https://img.shields.io/badge/Chargebee-FF3300?style=flat-square" alt="Chargebee"/>
   <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/>
+  <img src="https://img.shields.io/badge/Coinbase-0052FF?style=flat-square&logo=coinbase&logoColor=white" alt="Coinbase"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Marketplace-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Marketplace"/>
+  <img src="https://img.shields.io/badge/AWS%20Marketplace-232F3E?style=flat-square" alt="AWS Marketplace"/>
   <img src="https://img.shields.io/badge/Mintlify-0F172A?style=flat-square&logo=mintlify&logoColor=white" alt="Mintlify"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/>
 </p>
 
-I've built billing and monetization end to end: **Stripe** and **Chargebee** for subscriptions and usage based billing, plus **PayPal**. I document the API with **Mintlify** (I evaluated and adopted it), and I run the go to market of each release with **Slack** and marketing: emails, plan changes, and new subscriptions.
+I've built billing and monetization end to end: **Stripe** and **Chargebee** for subscriptions and usage based billing, plus **PayPal** and **Coinbase**. I published Enterprise plans on the **Google Cloud** and **AWS** marketplaces, a distribution channel that did not exist before. I document the API with **Mintlify** (I evaluated and adopted it), and I run the go to market of each release with **Slack** and marketing: emails, plan changes, and new subscriptions.
 
 ---
 
