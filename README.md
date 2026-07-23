@@ -56,7 +56,6 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlepubsub&logoColor=white" alt="Google Pub/Sub"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
