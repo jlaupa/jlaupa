@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/English-limited%20working%20(B1)-64748B?style=flat-square" alt="English B1"/>
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jairolaupa/"><img src="https://img.shields.io/badge/LinkedIn-jairolaupa-0D9488?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/M%C3%A1laga,%20Spain-Remote-0D9488?style=for-the-badge&logo=googleearth&logoColor=white" alt="Málaga, Spain, Remote"/>
