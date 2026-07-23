@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/English-limited%20working%20(B1)-64748B?style=flat-square" alt="English B1"/>
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jairolaupa/"><img src="https://img.shields.io/badge/LinkedIn-jairolaupa-0D9488?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/M%C3%A1laga,%20Spain-Remote-0D9488?style=for-the-badge&logo=googleearth&logoColor=white" alt="Málaga, Spain, Remote"/>
@@ -56,8 +55,10 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/k9s-0D9488?style=flat-square" alt="k9s"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
@@ -65,7 +66,7 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-Day to day I write **Python**, **PHP** and **Lua** (APISIX plugins), on top of **Kubernetes** and **GCP**. Contracts in **OpenAPI**, auth with **OAuth2**, and gateways with **Apache APISIX** and **Apigee**. Observability with **Grafana**, **Kibana** and **OpenSearch**. Persistence and cache with **PostgreSQL**, **Redis** and **Memcached**.
+I've worked with cloud infrastructure for years, first on **AWS** and now on **Google Cloud**. Day to day I write **Python**, **PHP** and **Lua** (APISIX plugins), on top of **Kubernetes** (I live in **k9s**) and containers. Contracts in **OpenAPI**, auth with **OAuth2**, and gateways with **Apache APISIX** and **Apigee**. Observability with **Grafana**, **Kibana** and **OpenSearch**. Persistence and cache with **PostgreSQL**, **Redis** and **Memcached**.
 
 ---
 
@@ -107,4 +108,3 @@ I use **Claude** and **Claude Code**, **Cursor** and **ChatGPT** every day, and 
 <p align="center">
   <em>Open to remote roles in product and AI engineering. Best way to reach me is <a href="https://www.linkedin.com/in/jairolaupa/">LinkedIn</a>.</em>
 </p>
-
