@@ -55,7 +55,6 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch"/>
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
@@ -70,7 +69,7 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-I've worked with cloud infrastructure for years, first on **AWS** and now on **Google Cloud**. Day to day I write **Python**, **PHP** with **Laravel**, and **Lua** (APISIX plugins), on top of **Kubernetes** (I live in **k9s**) and containers. Contracts in **OpenAPI**, auth with **OAuth2**, and gateways with **Apache APISIX** and **Apigee**. Async messaging with **Google Pub/Sub**. Observability with **Grafana**, **Kibana** and **OpenSearch**. Persistence, search and analytics with **PostgreSQL**, **Redis**, **Memcached**, **Elasticsearch** and **BigQuery**.
+I've worked with cloud infrastructure for years, first on **AWS** and now on **Google Cloud**. Day to day I write **Python**, **PHP** with **Laravel**, and **Lua** (APISIX plugins), on top of **Kubernetes** (I live in **k9s**) and containers. Contracts in **OpenAPI**, auth with **OAuth2**, and gateways with **Apache APISIX** and **Apigee**. Async messaging with **Google Pub/Sub**. Observability with **Grafana**, **Kibana** and **OpenSearch**. Persistence and search with **PostgreSQL**, **Redis**, **Memcached** and **Elasticsearch**.
 
 ---
 
@@ -123,7 +122,7 @@ I use **Claude** and **Claude Code**, **Cursor**, **Codex**, **ChatGPT** and **G
 
 ### Featured
 
-- 🔌 **[freepik-mcp](https://github.com/freepik-company/freepik-mcp)** — Magnific's official MCP server (75★). I'm the top contributor and built the first version, so agents can call the API through function calling.
+- 🔌 **[freepik-mcp](https://github.com/freepik-company/freepik-mcp)**: Magnific's official MCP server (75★). I'm the top contributor and built the first version, so agents can call the API through function calling.
 
 ---
 
