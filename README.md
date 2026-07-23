@@ -37,6 +37,7 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
@@ -51,12 +52,15 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Memcached-0288D1?style=flat-square" alt="Memcached"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch"/>
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlepubsub&logoColor=white" alt="Google Pub/Sub"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/k9s-0D9488?style=flat-square" alt="k9s"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -66,7 +70,7 @@ I work **AI first**: I run a multi agent setup with **Claude Code**, one per rep
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-I've worked with cloud infrastructure for years, first on **AWS** and now on **Google Cloud**. Day to day I write **Python**, **PHP** and **Lua** (APISIX plugins), on top of **Kubernetes** (I live in **k9s**) and containers. Contracts in **OpenAPI**, auth with **OAuth2**, and gateways with **Apache APISIX** and **Apigee**. Observability with **Grafana**, **Kibana** and **OpenSearch**. Persistence and cache with **PostgreSQL**, **Redis** and **Memcached**.
+I've worked with cloud infrastructure for years, first on **AWS** and now on **Google Cloud**. Day to day I write **Python**, **PHP** with **Laravel**, and **Lua** (APISIX plugins), on top of **Kubernetes** (I live in **k9s**) and containers. Contracts in **OpenAPI**, auth with **OAuth2**, and gateways with **Apache APISIX** and **Apigee**. Async messaging with **Google Pub/Sub**. Observability with **Grafana**, **Kibana** and **OpenSearch**. Persistence, search and analytics with **PostgreSQL**, **Redis**, **Memcached**, **Elasticsearch** and **BigQuery**.
 
 ---
 
@@ -84,18 +88,33 @@ I've built billing and monetization end to end: **Stripe** and **Chargebee** for
 
 ---
 
+### Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+</p>
+
+For day to day work I use **DBeaver** for databases, **Notion** for docs and knowledge, **Figma** to read designs and specs (I consume them, I don't design), and **Jira** for planning.
+
+---
+
 ### AI tools
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Gemini-886FB5?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
 </p>
 
-I use **Claude** and **Claude Code**, **Cursor** and **ChatGPT** every day, and **Vertex AI** in product on GCP. I build with **MCP**, model APIs and agents, and I integrate and evaluate AI providers (image, video and LLM models) into a single API.
+I use **Claude** and **Claude Code**, **Cursor**, **Codex**, **ChatGPT** and **Gemini** every day, and **Vertex AI** in product on GCP. I build with **MCP**, model APIs and agents, and I integrate and evaluate AI providers (image, video and LLM models) into a single API.
 
 ---
 
