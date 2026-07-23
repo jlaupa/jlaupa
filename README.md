@@ -106,3 +106,4 @@ I use **Claude** and **Claude Code**, **Cursor** and **ChatGPT** every day, and 
 <p align="center">
   <em>Open to remote roles in product and AI engineering. Best way to reach me is <a href="https://www.linkedin.com/in/jairolaupa/">LinkedIn</a>.</em>
 </p>
+
